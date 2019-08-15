@@ -1,0 +1,19 @@
+{
+    "name": "ofp",
+    "main": "ofp.js",
+    "license": "MIT",
+    "dependencies": {
+        "lang-mini": "^0.0.12",
+        "fnl": "^0.0.13"
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "description": "Observable Functional Programming or Observable Functional Polymorphism.",
+    "author": "James Vickers <james@metabench.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/metabench/ofp.git"
+    },
+    "version": "0.0.2"
+}
